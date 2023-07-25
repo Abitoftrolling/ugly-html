@@ -1,0 +1,43 @@
+h1{
+    text-decoration: center;
+    color: yellow;
+    background-color: rgb(43, 43, 211);
+    font-family: 'Courier New', Courier, monospace;
+    border: 0cap;
+}
+
+#bulbasaur_container{
+    width: 1000px;
+    border: 6px solid green;
+    padding: 40px;
+    margin: auto;
+}
+
+#charmander_container{
+    width: 1000px;
+    border: 6px solid orangered;
+    padding: 40px;
+    margin: auto;
+
+}
+
+#squirtle_container{
+    width: 1000px;
+    border: 6px solid lightskyblue;
+    padding: 40px;
+    margin: auto;
+
+}
+
+img{
+    width: 250px;
+    
+}
+
+h2, h3, p, ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color:rgba(67, 21, 21, 0.952)
+}
